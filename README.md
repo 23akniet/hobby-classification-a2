@@ -23,7 +23,7 @@ Colab (T4 GPU), transformers, gradio, scikit-learn, random_state=42
 (table: Accuracy and F1 for Baseline CNN, Improved CNN, DINOv2)
 
 ## Demo video
-(link to the video)
+((https://drive.google.com/file/d/17BHVrMiDu4LYMatxL4dzt51G2iBimGue/view?usp=drive_link))
 
 ## Authors
 Akniet, Zhibek
